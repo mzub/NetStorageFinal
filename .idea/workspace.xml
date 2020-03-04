@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="66216186-b2b2-42f4-aff7-734e0174a54a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/main/java/StringToBufferOutHandler.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="NetStorage" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1XM9cvkAaT0GUeSDmhEaPaLExNB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/client/repository" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/client/repository" />
+      <recent name="$PROJECT_DIR$/server/repository" />
+      <recent name="C:\Users\USER\ПТО\Разное\Codding\NetStorage\server\repository" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/server/repository" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JAR Application.ServerNetStorageZZz.jar">
+    <configuration name="ClientApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClientApp" />
+      <module name="client" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ServerApp" />
+      <module name="server" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientNetStorageZZz.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/client/target/ClientNetStorageZZz.jar" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ServerNetStorageZZz.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/server/target/ServerNetStorageZZz.jar" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JAR Application.ServerNetStorageZZz.jar" />
+        <item itemvalue="JAR Application.ClientNetStorageZZz.jar" />
+        <item itemvalue="Application.ClientApp" />
+        <item itemvalue="Application.ServerApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR,SHOW_INHERITED" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66216186-b2b2-42f4-aff7-734e0174a54a" name="Default Changelist" comment="" />
+      <created>1580845178166</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580845178166</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1926" y="184" key="#Inspections" timestamp="1583177755884">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1926" y="184" key="#Inspections/1366.0.1920.1080/0.0.1366.768@1366.0.1920.1080" timestamp="1583177755884" />
+    <state x="1921" y="185" width="800" height="674" key="#Project_Structure" timestamp="1581013064426">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1921" y="185" width="800" height="674" key="#Project_Structure/1366.0.1920.1080/0.47.1366.768@1366.0.1920.1080" timestamp="1581013064426" />
+    <state x="1784" y="181" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581014949772">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1784" y="181" key="#com.intellij.execution.impl.EditConfigurationsDialog/1366.0.1920.1080/0.47.1366.768@1366.0.1920.1080" timestamp="1581014949772" />
+    <state x="2063" y="329" width="516" height="386" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583342506490">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2063" y="329" key="#com.intellij.fileTypes.FileTypeChooser/1366.0.1920.1080/0.0.1366.768@1366.0.1920.1080" timestamp="1583342506490" />
+    <state x="2063" y="329" width="516" height="386" key="#com.intellij.fileTypes.FileTypeChooser/1366.0.1920.1080/0.47.1366.768@1366.0.1920.1080" timestamp="1581841193368" />
+    <state x="2134" y="236" width="374" height="572" key="#com.intellij.ide.util.MemberChooser" timestamp="1583180594492">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2134" y="236" key="#com.intellij.ide.util.MemberChooser/1366.0.1920.1080/0.0.1366.768@1366.0.1920.1080" timestamp="1583180594492" />
+    <state x="2134" y="236" width="374" height="572" key="#com.intellij.ide.util.MemberChooser/1366.0.1920.1080/0.47.1366.768@1366.0.1920.1080" timestamp="1583003006672" />
+    <state x="2009" y="253" width="624" height="540" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1583345556989">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2009" y="253" width="624" height="540" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/1366.0.1920.1080/0.0.1366.768@1366.0.1920.1080" timestamp="1583345556989" />
+    <state x="2009" y="253" width="624" height="538" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/1366.0.1920.1080/0.47.1366.768@1366.0.1920.1080" timestamp="1582138541506" />
+    <state x="2114" y="385" width="423" height="284" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1582570529020">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2114" y="385" width="423" height="284" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/1366.0.1920.1080/0.47.1366.768@1366.0.1920.1080" timestamp="1582570529020" />
+    <state x="2109" y="281" width="424" height="481" key="FileChooserDialogImpl" timestamp="1581255603257">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2109" y="281" width="424" height="481" key="FileChooserDialogImpl/1366.0.1920.1080/0.47.1366.768@1366.0.1920.1080" timestamp="1581255603257" />
+    <state width="1878" height="195" key="GridCell.Tab.0.bottom" timestamp="1583345668531">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="195" key="GridCell.Tab.0.bottom/1366.0.1920.1080/0.0.1366.768@1366.0.1920.1080" timestamp="1583345668531" />
+    <state width="1874" height="197" key="GridCell.Tab.0.bottom/1366.0.1920.1080/0.47.1366.768@1366.0.1920.1080" timestamp="1583010833682" />
+    <state width="1878" height="195" key="GridCell.Tab.0.center" timestamp="1583345668531">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="195" key="GridCell.Tab.0.center/1366.0.1920.1080/0.0.1366.768@1366.0.1920.1080" timestamp="1583345668531" />
+    <state width="1874" height="197" key="GridCell.Tab.0.center/1366.0.1920.1080/0.47.1366.768@1366.0.1920.1080" timestamp="1583010833682" />
+    <state width="1878" height="195" key="GridCell.Tab.0.left" timestamp="1583345668531">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="195" key="GridCell.Tab.0.left/1366.0.1920.1080/0.0.1366.768@1366.0.1920.1080" timestamp="1583345668531" />
+    <state width="1874" height="197" key="GridCell.Tab.0.left/1366.0.1920.1080/0.47.1366.768@1366.0.1920.1080" timestamp="1583010833682" />
+    <state width="1878" height="195" key="GridCell.Tab.0.right" timestamp="1583345668531">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="195" key="GridCell.Tab.0.right/1366.0.1920.1080/0.0.1366.768@1366.0.1920.1080" timestamp="1583345668531" />
+    <state width="1874" height="197" key="GridCell.Tab.0.right/1366.0.1920.1080/0.47.1366.768@1366.0.1920.1080" timestamp="1583010833682" />
+    <state width="1874" height="343" key="GridCell.Tab.1.bottom" timestamp="1581367424360">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="343" key="GridCell.Tab.1.bottom/1366.0.1920.1080/0.47.1366.768@1366.0.1920.1080" timestamp="1581367424360" />
+    <state width="1874" height="343" key="GridCell.Tab.1.center" timestamp="1581367424359">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="343" key="GridCell.Tab.1.center/1366.0.1920.1080/0.47.1366.768@1366.0.1920.1080" timestamp="1581367424359" />
+    <state width="1874" height="343" key="GridCell.Tab.1.left" timestamp="1581367424359">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="343" key="GridCell.Tab.1.left/1366.0.1920.1080/0.47.1366.768@1366.0.1920.1080" timestamp="1581367424359" />
+    <state width="1874" height="343" key="GridCell.Tab.1.right" timestamp="1581367424359">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="343" key="GridCell.Tab.1.right/1366.0.1920.1080/0.47.1366.768@1366.0.1920.1080" timestamp="1581367424359" />
+    <state x="1820" y="157" key="SettingsEditor" timestamp="1583263851208">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1820" y="157" key="SettingsEditor/1366.0.1920.1080/0.0.1366.768@1366.0.1920.1080" timestamp="1583263851208" />
+    <state x="1921" y="259" width="800" height="525" key="Vcs.Push.Dialog.v2" timestamp="1583345772362">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1921" y="259" key="Vcs.Push.Dialog.v2/1366.0.1920.1080/0.0.1366.768@1366.0.1920.1080" timestamp="1583345772362" />
+    <state x="1921" y="259" width="800" height="525" key="Vcs.Push.Dialog.v2/1366.0.1920.1080/0.47.1366.768@1366.0.1920.1080" timestamp="1582846869959" />
+    <state x="2019" y="351" key="com.intellij.ide.util.TipDialog" timestamp="1583341751203">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2019" y="351" key="com.intellij.ide.util.TipDialog/1366.0.1920.1080/0.0.1366.768@1366.0.1920.1080" timestamp="1583341751203" />
+    <state x="2019" y="351" key="com.intellij.ide.util.TipDialog/1366.0.1920.1080/0.47.1366.768@1366.0.1920.1080" timestamp="1582954452321" />
+    <state x="2012" y="126" width="628" height="795" key="find.popup" timestamp="1582659839880">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2012" y="126" width="628" height="795" key="find.popup/1366.0.1920.1080/0.47.1366.768@1366.0.1920.1080" timestamp="1582659839880" />
+    <state x="1701" y="221" width="1239" height="601" key="new project wizard" timestamp="1581255626887">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1701" y="221" width="1239" height="601" key="new project wizard/1366.0.1920.1080/0.47.1366.768@1366.0.1920.1080" timestamp="1581255626887" />
+    <state x="1989" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1583176052044">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1989" y="230" width="672" height="678" key="search.everywhere.popup/1366.0.1920.1080/0.0.1366.768@1366.0.1920.1080" timestamp="1583176052044" />
+    <state x="1989" y="230" width="672" height="678" key="search.everywhere.popup/1366.0.1920.1080/0.47.1366.768@1366.0.1920.1080" timestamp="1582973964851" />
+  </component>
+  <component name="simpleUML.UMLToolWindowPlugin">
+    <General>
+      <option name="birdViewUpdateDelay" value="2000" />
+      <option name="defaultFileLocation" value="file://$PROJECT_DIR$/.." />
+    </General>
+    <Classdiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="defaultFieldsExpanded" value="false" />
+      <option name="defaultContructorsExpanded" value="false" />
+      <option name="defaultMethodsExpanded" value="false" />
+      <option name="showParameters" value="true" />
+      <option name="showTooltip" value="true" />
+      <option name="showReturnValues" value="true" />
+      <option name="longModifier" value="true" />
+      <option name="implementsBehaviour" value="1" />
+      <option name="extendsBehaviour" value="1" />
+      <option name="compartmentBehaviour" value="1" />
+      <option name="interfaceBackgroundColor" value="-6494306" />
+      <option name="abstractClassBackgroundColor" value="-1580132" />
+      <option name="classBackgroundColor" value="-6508057" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="quickSourceLinkColor" value="-16776961" />
+      <option name="quickDiagramLinkColor" value="-8454144" />
+      <option name="drawDecorations" value="false" />
+      <option name="hideFieldList" value="" />
+      <option name="showFieldList" value="" />
+      <option name="hideConstructorList" value="" />
+      <option name="showConstructorList" value="" />
+      <option name="hideMethodList" value="" />
+      <option name="showMethodList" value="" />
+      <option name="minimumFigureSize" value="0,0" />
+    </Classdiagram>
+    <Dependencydiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="0" />
+    </Dependencydiagram>
+    <Packagediagram>
+      <option name="diagramTitleFont" value="SansSerif,0,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="packageBackgroundColor" value="-4144960" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="2" />
+    </Packagediagram>
+  </component>
+</project>

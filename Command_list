@@ -1,0 +1,8 @@
+Server incoming commands
+12 - authentication is OK
+15 - upload a file
+13 - download a file
+11 - get file list
+14 - delete a file
+5 - wrong authentication
+
